@@ -65,13 +65,6 @@ Confident anchor 🎤 | Book lover 📚 (Khaled Hosseini fan) | Creative mind �
 
 ---
 
-## 🏆 Achievements:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ZTSALAHUDDIN&theme=radical&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## ✍️ Dev Quote:
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
