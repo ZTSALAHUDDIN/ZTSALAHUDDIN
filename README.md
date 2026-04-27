@@ -1,30 +1,66 @@
-<h1 align="center">Hi 👋, I'm Zoya Salahuddin</h1>
-<h3 align="center">✨ CSE Student | AI Enthusiast | Public Speaker & Anchor ✨</h3>
+<h1 align="center">Zoya Salahuddin</h1>
+<h3 align="center">Computer Science Student | Full-Stack Developer | AI Enthusiast</h3>
 
 ---
 
-## 💫 About Me:
-🔭 **Currently working on:**  
-AI-based beginner projects (Data Analysis, Data Cleaning & real-world applications)
+## About Me
 
-👯 **Looking to collaborate on:**  
-AI/ML projects, open source & tech communities  
-
-🤝 **Seeking help with:**  
-Machine Learning & Deep Learning fundamentals  
-
-🌱 **Currently learning:**  
-Python, Data Structures, AI & Generative AI  
-
-💬 **Ask me about:**  
-Public speaking, event hosting & AI beginner journey  
-
-⚡ **Fun Fact:**  
-Confident anchor 🎤 | Book lover 📚 (Khaled Hosseini fan) | Creative mind 🎨  
+- Computer Science undergraduate with a strong interest in **AI-driven applications and full-stack development**
+- Experience in building **real-world projects** across learning systems, finance tools, and analytics
+- Active in **technical communities**, leading events, hackathons, and collaborations
+- Exploring **Data Science, Generative AI, and scalable web systems**
 
 ---
 
-## 🌐 Connect With Me:
+## Current Focus
+
+- Strengthening **Data Structures & Problem Solving**
+- Learning **Machine Learning fundamentals**
+- Building **impactful full-stack + AI-based projects**
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## Key Projects
+
+- **CampusEase** – Smart campus management system with role-based dashboards and real-time tracking  
+- **LearnMate AI** – Emotion-aware learning assistant with personalized recommendations  
+- **Bachat Buddy** – Finance management tool for expense tracking and subscription detection  
+
+---
+
+## Experience & Leadership
+
+- Operations Lead – GDG on Campus GCOEN  
+- Volunteer & Social Media Manager – AWS User Group Nagpur  
+- Club Service Director – Rotaract Club of GCOEN  
+- Head – Code Hive (Coding Club)  
+- Event Host – DevFest Nagpur  
+
+---
+
+## Connect
+
 <p align="left">
 <a href="https://www.linkedin.com/in/zoya-salahuddin-727a15343/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -36,42 +72,13 @@ Confident anchor 🎤 | Book lover 📚 (Khaled Hosseini fan) | Creative mind �
 
 ---
 
-## 💻 Tech Stack:
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+## GitHub Stats
 
----
-
-## 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZTSALAHUDDIN&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTSALAHUDDIN&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ZTSALAHUDDIN&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTSALAHUDDIN&layout=compact&theme=default"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=ZTSALAHUDDIN&theme=radical"/>
-</p>
-
----
-
-## ✍️ Dev Quote:
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=ZTSALAHUDDIN&icon=5&color=6"/>
+<img src="https://streak-stats.demolab.com/?user=ZTSALAHUDDIN&theme=default"/>
 </p>
