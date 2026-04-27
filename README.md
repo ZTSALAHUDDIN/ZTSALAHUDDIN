@@ -5,18 +5,18 @@
 
 ## About Me
 
-- Computer Science undergraduate with a strong interest in **AI-driven applications and full-stack development**
-- Experience in building **real-world projects** across learning systems, finance tools, and analytics
-- Active in **technical communities**, leading events, hackathons, and collaborations
-- Exploring **Data Science, Generative AI, and scalable web systems**
+Computer Science undergraduate with a strong focus on building **AI-powered and full-stack applications**.  
+Experienced in developing real-world solutions across **learning systems, finance tools, and health tracking platforms**.
+
+Alongside technical work, actively lead and contribute to **tech communities, hackathons, and large-scale events**, combining development with strong communication and leadership skills.
 
 ---
 
 ## Current Focus
 
-- Strengthening **Data Structures & Problem Solving**
-- Learning **Machine Learning fundamentals**
-- Building **impactful full-stack + AI-based projects**
+- Data Structures & Problem Solving (C++)
+- Machine Learning fundamentals
+- Building scalable full-stack applications with AI integration
 
 ---
 
@@ -41,21 +41,55 @@
 
 ---
 
-## Key Projects
+## Projects
 
-- **CampusEase** – Smart campus management system with role-based dashboards and real-time tracking  
-- **LearnMate AI** – Emotion-aware learning assistant with personalized recommendations  
-- **Bachat Buddy** – Finance management tool for expense tracking and subscription detection  
+### LearnMate AI – Emotion-Aware Learning Companion
+- AI-powered learning assistant adapting content based on user mood and engagement
+- Includes chatbot, quiz generation, productivity tracking, and recommendation engine
+- Built using React.js and Next.js
+
+### CampusEase – Smart Campus Management System
+- Full-stack system for managing campus workflows with role-based dashboards
+- Integrated Gemini AI for automated formal letter generation
+- Includes analytics dashboards, request tracking, and event calendar system
+
+### Bachat Buddy – Personal Finance Assistant
+- Tracks expenses, detects subscriptions, and analyzes spending behavior
+- Provides categorized financial insights and savings optimization
+
+### Healthcare Eclipse – Health Logger
+- Tracks daily health data, mood, and lifestyle habits
+- Uses AI-based analysis to detect potential health risks early
 
 ---
 
 ## Experience & Leadership
 
-- Operations Lead – GDG on Campus GCOEN  
-- Volunteer & Social Media Manager – AWS User Group Nagpur  
-- Club Service Director – Rotaract Club of GCOEN  
-- Head – Code Hive (Coding Club)  
-- Event Host – DevFest Nagpur  
+- **Operations Lead – GDG on Campus GCOEN**  
+  Led hackathons and workshops with 250+ participants and managed event execution  
+
+- **Volunteer & Social Media Manager – AWS User Group Nagpur**  
+  Managed branding, hosting, and engagement for multiple tech events (200–250 attendees)  
+
+- **Club Service Director – Rotaract Club of GCOEN**  
+  Organized community and cultural events, handled communication and reporting  
+
+- **Head – Code Hive (Coding Club)**  
+  Organized 7 coding competitions with active student participation  
+
+- **Event Host – DevFest Nagpur**  
+  Hosted large-scale technical event with 800–1000 attendees  
+
+- **Google Student Ambassador – GCOEN**  
+  Promoted Google technologies and conducted awareness initiatives  
+
+---
+
+## Achievements
+
+- Won 4+ hackathons  
+- Participated in 10+ hackathons  
+- Google Cloud Certified  
 
 ---
 
